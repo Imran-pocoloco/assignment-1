@@ -127,3 +127,141 @@ border: 1px solid #D5D6D8;
 
 
 /* pillars container style end */
+.vision-card{
+  padding: 80px 160px 32px 160px;
+}
+
+.vision-card-title{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  padding-block-end: 24px;
+  
+}
+
+.vision-card-box{
+  display: flex;
+  justify-content: space-around;
+  gap: 24px;
+}
+
+.vision-description{
+  font-size: 16px;
+  font-weight: 400px;
+  color: rgba(14, 14, 14, 0.8);
+  padding-block-end: 32px;
+
+}
+
+.vision-box{
+  width: 410px;
+  height:310px;
+  padding: 32px 32px;
+border-radius: 16px;
+border: 1px;
+border-color: none;
+}
+.icon-size{
+  height: 64px;
+  width: 64px;
+  padding-block-end: 24px;
+}
+.vision-card-box-title{
+  font-size: 20px;
+  font-weight: bold;
+  padding-block-end: 12px;
+  
+}
+.vision-card-description{
+  width: 345px;
+  height: 72px;
+  font-size: 16px;
+  font-weight: 400px;
+  color: rgba(14, 14, 14, 0.8);
+  padding-block-end: 24px;
+}
+
+/* vision-box background style start */
+.bg-color-1{
+  background-color:#81B4FC;
+}
+
+.bg-color-2{
+  background-color: #C6E4D6;
+}
+
+.bg-color-3{
+  background-color: #F7EBCF;
+}
+/* background style end */
+/* vision-card-btn style start*/
+.vision-card-btn1{
+   font-size: 16px;
+  font-weight:500;
+  padding: 15px 30px;
+  color: #FFFFFF ;
+  background-color:#5490F5 ;
+  border: 1px solid #5490F5;
+  border-radius: 8px;
+  
+}
+
+.vision-card-btn2{
+   font-size: 16px;
+  font-weight:500;
+  padding: 15px 30px;
+  color: #FFFFFF ;
+  background-color:#09A15C ;
+  border: 1px solid #09A15C;
+  border-radius: 8px;
+  
+}
+
+.vision-card-btn3{
+   font-size: 16px;
+  font-weight:500;
+  padding: 15px 30px;
+  color: #FFFFFF ;
+  background-color:#FFC239 ;
+  border: 1px solid #FFC239;
+  border-radius: 8px;
+  
+}
+/* vision-card-btn style end */
+
+/* testimonial style start */
+.testimonial{
+ padding: 0px 160px ;
+ padding-block-end: 80px;
+ background-color: #FFFFFF;
+}
+
+.quote{
+  background-image: url(../assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: top left ;
+  font-size: 16px;
+  font-weight: 400px;
+  color:rgba(14, 14, 14, 0.7) ;
+  line-height: 24px;
+
+}
+
+.pooki{
+  font-size: 20;
+  font-weight: 500px;
+  line-height: 24px;
+  color: #0E0E0E;
+}
+.pooki-post{
+  font-size: 16;
+  font-weight: 400px;
+  color: rgba(14, 14, 14, 0.8);
+}
+
+.poco4{
+  padding: 24px 48px;
+  border: 1px solid #D5D6D8;
+  border-radius: 16px;
+}
+/* testimonial style end */
