@@ -84,6 +84,46 @@ margin-top: 80px;
   gap: 64px;
 }
 
-/* hero-section end */
+/* hero-section end */ 
+
+/* pillars container style start */
+.section-gap{
+ padding: 0px 160px; rgb
+}
+
+.pillars-title-font{
+  font-size: 40px;
+  font-weight: bold;
+  padding-block-end: 32px;
+}
+
+.pillars-container{
+  display: flex;
+   gap: 24px;
+  justify-content: space-between;
+}
+
+.pillars{
+padding: 24px 24px;
+border-radius: 16px;
+border: 1px solid #D5D6D8;
+
+}
+
+.pillars-title{
+  font-size: 20px;
+  font-weight: bold; 
+  text-align: start;
+  color: rgba(14, 14, 14, 0.8);
+}
+
+.pillars-discretion{
+  text-align: left;
+  font-size: 16px;
+  font-weight: 500px;
+  padding:36px 0px 0px 0px ;
+  color: rgba(14, 14, 14, 0.7);
+}
 
 
+/* pillars container style end */
